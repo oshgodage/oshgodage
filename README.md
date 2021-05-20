@@ -1,9 +1,7 @@
 ### Hi I'm Oshadi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🏢 Trainee Software Engineer at Pentagon I Runway (Pvt) Ltd.
-- 🏢 Application Support and Operations at Sri Lanka Telecom(PLC)
-- 👯 I’m looking to collaborate on community projects
-- 🤔 I’m looking for help with my community projects
+
+- 🤔 I’m looking to collaborate on community projects
 - 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UCTIpt6hdMdKUmiLx0OraF_A)
 - 📫 How to reach me: [Behance](https://www.behance.net/oshadigodage)	 
 - 📫 How to contact me: [LinkedIn](https://www.linkedin.com/in/oshadi-godage-4a482918a/)
