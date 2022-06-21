@@ -6,8 +6,8 @@
 - 📫 How to reach me: [Behance](https://www.behance.net/oshadigodage)	 
 - 📫 How to contact me: [LinkedIn](https://www.linkedin.com/in/oshadi-godage-4a482918a/)
 - 📌 YouTube Content Creator 😍🖥 and Video Editing 
-- 😊 Software Engineer, Graphic Designer UI/UX Enthusiast
-- 💬 Mobile App,Logo Designing
+- 😊 Software Engineer,UI/UX Enthusiast & Graphic Designer
+
 
 
 
