@@ -1,6 +1,6 @@
 ### Hi I'm Oshadi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 😊 Software Engineer, UI/UX Enthusiast & Graphic Designer
+- 😊 Software Engineer, UI/UX Enthusiast
 - 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UCTIpt6hdMdKUmiLx0OraF_A)
 - 📫 How to reach me: [Behance](https://www.behance.net/oshadigodage)	 
 - 📫 How to contact me: [LinkedIn](https://www.linkedin.com/in/oshadi-godage-4a482918a/)
