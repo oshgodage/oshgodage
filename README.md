@@ -6,7 +6,6 @@
 🎨 Making videos about Computer Science, tech, and graphic design on [YouTube](https://www.youtube.com/@learningzity)<br/>
 🌷 UX/UI design [digital garden](https://www.behance.net/oshadigodage)<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 
