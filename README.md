@@ -26,15 +26,10 @@
 
 # 💻 Featured YouTube Videos
 [![Complete CRUD Operations using JavaScript with CSS & HTML](https://ytcards.demolab.com/?id=MKD0Vsu0Ikw&title=Complete+CRUD+Operations+using+JavaScript+with+CSS+%26+HTML&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=77)](https://www.youtube.com/watch?v=MKD0Vsu0Ikw&t=77s)
-
 [![MovieDB App in React JS | Fetch Data from an API](https://ytcards.demolab.com/?id=KveKdXSEV7A&title=MovieDB+App+in+React+JS+%7C+Fetch+Data+from+an+API&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1572)](https://www.youtube.com/watch?v=KveKdXSEV7A&t=1572s)
-
 [![Student Registration Form Using React #2 | Basic of Form Handling](https://ytcards.demolab.com/?id=T1-AICN3RsA&title=Student+Registration+Form+Using+React+%232+%7C+Basic+of+Form+Handling&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=129)](https://www.youtube.com/watch?v=T1-AICN3RsA)
-
 [![How To Design Flyer Mockup in Photoshop | Adobe Photoshop Tutorial](https://ytcards.demolab.com/?id=luzXZn-4Svc&title=How+To+Design+Flyer+Mockup+in+Photoshop+%7C+Adobe+Photoshop+Tutorial&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=129)](https://www.youtube.com/watch?v=luzXZn-4Svc&t=129s)
-
 [![Programming idea for create birthday wish for him(with code step by step) | (Part 01)](https://ytcards.demolab.com/?id=1yZV9qwYouw&title=Programming+idea+for+create+birthday+wish+for+him%28with+code+step+by+step%29+%7C+%28Part+01%29&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=240)](https://www.youtube.com/watch?v=1yZV9qwYouw)
-
 [![Programming idea for create birthday wish for him(Text to speech using java in netbeans) | Part02](https://ytcards.demolab.com/?id=xrFfV8KaY0c&title=Programming+idea+for+create+birthday+wish+for+him%28Text+to+speech+using+java+in+netbeans%29+%7C+Part02&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120)](https://www.youtube.com/watch?v=xrFfV8KaY0c&t=2s)
 
 <!-- END YOUTUBE-CARDS -->
