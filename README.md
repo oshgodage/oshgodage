@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Oshadi!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [BSc(Hons) in Information Technology](https://www.youtube.com/@SLIITtube) at SLIIT, Sri Lanka<br/>
+👩🏻‍🎓 Studied BSc(Hons) in Information Technology at [SLIIT](https://www.youtube.com/@SLIITtube), Sri Lanka<br/>
 🎨 Making videos about Computer Science, tech, and graphic design on [YouTube](https://www.youtube.com/@learningzity)<br/>
-🌷 UX/UI design [digital garden](https://www.behance.net/oshadigodage)<br/>
+🌷 Digital garden [Behance](https://www.behance.net/oshadigodage)<br/>
 
 
 # 💻 Tech Stack
