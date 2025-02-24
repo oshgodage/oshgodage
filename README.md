@@ -2,6 +2,7 @@
 
 # 👋 Hi, I'm Oshadi!
 [![Check out oshgodage's profile on stardev.io](https://stardev.io/developers/oshgodage/badge/languages/global.svg)](https://stardev.io/developers/oshgodage)
+
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied BSc(Hons) in Information Technology at [SLIIT](https://www.youtube.com/@SLIITtube), Sri Lanka<br/>
 🎨 Making videos about Computer Science, tech, and graphic design on [YouTube](https://www.youtube.com/@learningzity)<br/>
