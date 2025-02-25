@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Oshadi!
 [Top JavaScript developers in Sri Lanka StarDev Ranking](https://stardev.io/top/developers/javascript/in/sri_lanka/sri_lanka?page=3)
 
-[![Check out oshgodage's profile on stardev.io](https://stardev.io/developers/oshgodage/badge/languages/global.svg)](https://stardev.io/developers/oshgodage)
+[![Check out oshgodage's profile on stardev.io](https://stardev.io/developers/oshgodage/badge/languages/locality.svg)](https://stardev.io/developers/oshgodage)
 
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
